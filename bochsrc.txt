@@ -1,0 +1,4 @@
+floppya: 1_44=os.img, status=inserted
+boot: a
+display_library: win32
+log: bochs.log
